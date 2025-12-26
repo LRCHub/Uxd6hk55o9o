@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ヒラリ/ヒトリ/キラリ",
+  "base_artist": "わか・ふうり・すなお・れみ・もえ・えり・ゆな・りすこ from STAR☆ANIS",
+  "createdAt": "2025-12-26T06:22:16.663466Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒラリ",
+      "artist": "和田光司",
+      "has_synced": false,
+      "path": "select/01_ヒラリ_和田光司.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒラリ",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/02_ヒラリ_和田光司.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒラリ",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/03_ヒラリ_和田光司.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒラリ",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/04_ヒラリ_和田光司.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒラリ/ヒトリ/キラリ",
+      "artist": "わか・ふうり・すなお・れみ・もえ・えり・ゆな・りすこ from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/05_ヒラリ_ヒトリ_キラリ_わか・ふうり・すなお・れみ・もえ・えり・ゆな・りすこ_from_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒラリ/ヒトリ/キラリ (Off Vocal)",
+      "artist": "わか・ふうり・すなお・れみ・もえ・えり・ゆな・りすこ from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/06_ヒラリ_ヒトリ_キラリ_(Off_Vocal)_わか・ふうり・すなお・れみ・もえ・えり・ゆな・りすこ_from_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒラリ/ヒトリ/キラリ",
+      "artist": "わか・ふうり・すなお・れみ・もえ・えり・ゆな・りすこ from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/07_ヒラリ_ヒトリ_キラリ_わか・ふうり・すなお・れみ・もえ・えり・ゆな・りすこ_from_STAR☆ANIS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒラリ",
+      "artist": "Koji Wada (和田光司)",
+      "has_synced": true,
+      "path": "select/08_ヒラリ_Koji_Wada_(和田光司).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒラリ/ヒトリ/キラリ",
+      "artist": "STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/pl_01_ヒラリ_ヒトリ_キラリ_STAR☆ANIS.txt"
+    }
+  ]
+}
